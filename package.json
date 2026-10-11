@@ -1,0 +1,16 @@
+{
+  "name": "jom-luah-teman-hati",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Telegram emotional-support bot using Gemini API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
